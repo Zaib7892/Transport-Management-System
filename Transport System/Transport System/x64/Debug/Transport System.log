@@ -1,0 +1,15 @@
+﻿  Main.cpp
+C:\Users\computer house\source\repos\Transport System\Transport System\Main.cpp(258,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\computer house\source\repos\Transport System\Transport System\Main.cpp(96,9): warning C4101: 'serviceType': unreferenced local variable
+C:\Users\computer house\source\repos\Transport System\Transport System\Main.cpp(97,11): warning C4101: 'rating': unreferenced local variable
+C:\Users\computer house\source\repos\Transport System\Transport System\Main.cpp(142,20): warning C4101: 'a': unreferenced local variable
+  ServiceImp.cpp
+  TMSimp.cpp
+C:\Users\computer house\source\repos\Transport System\Transport System\TMSimp.cpp(283,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\computer house\source\repos\Transport System\Transport System\TMSimp.cpp(481,43): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\computer house\source\repos\Transport System\Transport System\TMSimp.cpp(743,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\computer house\source\repos\Transport System\Transport System\TMSimp.cpp(805,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\computer house\source\repos\Transport System\Transport System\TMSimp.cpp(805,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\computer house\source\repos\Transport System\Transport System\TMSimp.cpp(659,9): warning C4101: 'serviceType': unreferenced local variable
+  Generating Code...
+  Transport System.vcxproj -> C:\Users\computer house\source\repos\Transport System\x64\Debug\Transport System.exe
